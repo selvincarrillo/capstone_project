@@ -1,0 +1,10 @@
+data/raw_fastq/
+data/trimmed_fastq/
+data/fastqc_raw_results/
+data/fastqc_trimmed_results/
+data/
+results/
+*.sam
+*.bam
+*.bcf
+*.vcf
